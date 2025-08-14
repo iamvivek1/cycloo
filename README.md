@@ -9,15 +9,18 @@ A modern, responsive website for Nikhil Cycle Store in Allahabad, Uttar Pradesh,
 ## 📱 Screenshots
 
 ### Desktop View
-![Homepage Desktop](screenshots/homepage-desktop.png)
+![Homepage Desktop](screenshots/Screenshot%20(103).png)
 *Homepage showcasing premium bicycle collection*
 
-![Cycles Collection Desktop](screenshots/cycles-desktop.png)
+![Cycles Collection Desktop](screenshots/Screenshot%20(104).png)
 *Complete bicycle collection with detailed specifications*
 
-### Mobile View
-![Homepage Mobile](screenshots/homepage-mobile.png) ![Cycles Mobile](screenshots/cycles-mobile.png)
-*Fully responsive design for mobile devices*
+### Mobile & Tablet Views
+![About Page](screenshots/Screenshot%20(105).png) ![Contact Page](screenshots/Screenshot%20(106).png)
+*About and Contact pages with responsive design*
+
+![News Page](screenshots/Screenshot%20(107).png) ![Mobile View](screenshots/Screenshot%20(108).png)
+*News section and mobile responsive design*
 
 ## ✨ Features
 
